@@ -1,0 +1,132 @@
+{
+  "record": "CI-001_V1.4_MOTHER_UNIFICATION_AND_SOURCE_VERIFICATION",
+  "verifier": "ChatGPT (AI-assisted file checking)",
+  "verified_at_utc": "2026-09-08T07:17:12Z",
+  "authority": {
+    "work": "文明跃迁之意义共生",
+    "current_delivery": "M1",
+    "edition": "正式版 V1.2",
+    "superseded_for_this_delivery": [
+      "S2",
+      "S4",
+      "S5"
+    ],
+    "scope": "Standalone source work for this CI-001 delivery; no change to other frozen book families."
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "filename": "人心_AGI时代文明免疫系统_V1.3_R4E-E4文稿族联合终核正式版.docx",
+      "sha256": "45a4ff773626c1d7c5a09d88b7ad37855a15aec37137097367eeeabc4028134a",
+      "byte_size": 186643,
+      "status": "历史引文原件",
+      "locator": "版本说明及第一章补节“人心不是免审权：最后判断现场仍需复核”",
+      "archive_path": "sources/S1_人心_AGI时代文明免疫系统_V1.3_R4E-E4文稿族联合终核正式版.docx"
+    },
+    {
+      "id": "S2",
+      "filename": "文明跃迁之意义共生_正式版_v1.1_意义涌现术语对齐与统一排版版.docx",
+      "sha256": "a3dd68187a40962921b297235e698bfa2c3c8f9814dbfbb41d0f13b1bb1214a4",
+      "byte_size": 74528,
+      "status": "历史术语分支；第27章的合并依据",
+      "locator": "第9章预保护；第15章申诉纠偏；第18章主体识别；第27章共同意义涌现；附录二与三",
+      "archive_path": "sources/S2_文明跃迁之意义共生_正式版_v1.1_意义涌现术语对齐与统一排版版.docx"
+    },
+    {
+      "id": "S3",
+      "filename": "当人类一去不复返_文明为什么能够走向星际_V1.1_出版级定向终校候选稿.docx",
+      "sha256": "f531ea6ce3f5f4353a32a40877429b5018f717573cdda0a06df9aa49fb7cbe25",
+      "byte_size": 51864,
+      "status": "长文历史候选底稿",
+      "locator": "第九章“宇宙公民：从人类共同体走向开放的成员关系”",
+      "archive_path": "sources/S3_当人类一去不复返_文明为什么能够走向星际_V1.1_出版级定向终校候选稿.docx"
+    },
+    {
+      "id": "S4",
+      "filename": "文明跃迁之意义共生_正式版_问题开场结构地图修订版.docx",
+      "sha256": "3d8e98206b3236088df74c78573801fd9e15530199c9ab199b1679adbfacd411",
+      "byte_size": 75141,
+      "status": "历史结构地图分支；合并底稿",
+      "locator": "卷首、结构地图、目录、机制红线与第27章旧表述",
+      "archive_path": "sources/S4_文明跃迁之意义共生_正式版_问题开场结构地图修订版.docx"
+    },
+    {
+      "id": "S5",
+      "filename": "文明跃迁之意义共生_正式版_问题开场结构地图_终核精修版.docx",
+      "sha256": "68fb78eeb74a35c5f376ef43b2a93c193ac6dd2141c6ad54877f833d96d1ad46",
+      "byte_size": 75288,
+      "status": "历史结构地图延伸分支；差异参照",
+      "locator": "比S4多四段目录内说明，与正文第3章重复；不另行叠加进统一母本",
+      "archive_path": "sources/S5_文明跃迁之意义共生_正式版_问题开场结构地图_终核精修版.docx"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "M1",
+      "filename": "文明跃迁之意义共生_正式版_V1.2_结构地图与意义涌现统一母本.docx",
+      "sha256": "696673f512b32f8ed4821cb4f97c4fefe02c0d3ad4962b2fe65c35bebf0c00ca",
+      "byte_size": 75588,
+      "status": "本轮唯一交付母本",
+      "locator": "第9、15、18、27章；附录二第2、4、5、6节；附录三第5节",
+      "archive_path": "deliverables/M1_文明跃迁之意义共生_正式版_V1.2_结构地图与意义涌现统一母本.docx"
+    },
+    {
+      "id": "L1",
+      "filename": "当人类一去不复返_文明为什么能够走向星际_V1.2_主体识别维度关系补注候选稿.docx",
+      "sha256": "048c798d6416f92de82c2143ff881818685d473c985a45f84b046f59ce030044",
+      "byte_size": 52124,
+      "status": "实际交付产物；V1.2候选稿",
+      "locator": "第九章两套识别维度关系补注；保留候选稿身份",
+      "archive_path": "deliverables/L1_当人类一去不复返_文明为什么能够走向星际_V1.2_主体识别维度关系补注候选稿.docx"
+    },
+    {
+      "id": "CI_ZH",
+      "filename": "CI-001_V1.4_不可逆封闭判据_中文修订稿.docx",
+      "sha256": "29d9c3a3300e8c04ce9cdf41136a3aefed36f052cfab6ac653a1e5d4a579cee3",
+      "byte_size": 54771,
+      "archive_path": "deliverables/CI-001_V1.4_不可逆封闭判据_中文修订稿.docx",
+      "status": "CI-001 V1.4 revised text"
+    },
+    {
+      "id": "CI_EN",
+      "filename": "CI-001_V1.4_Irreversible_Closure_Criterion_EN.docx",
+      "sha256": "4d6c45f5fb3c0e1bf6ecd4817252250ca2dd49eef4d7eeca3c290f2365474ac5",
+      "byte_size": 55390,
+      "archive_path": "deliverables/CI-001_V1.4_Irreversible_Closure_Criterion_EN.docx",
+      "status": "CI-001 V1.4 revised text"
+    }
+  ],
+  "long_text_patch": {
+    "baseline": "S3",
+    "output_id": "L1",
+    "status": "included",
+    "archive_path": "deliverables/L1_当人类一去不复返_文明为什么能够走向星际_V1.2_主体识别维度关系补注候选稿.docx",
+    "sha256": "048c798d6416f92de82c2143ff881818685d473c985a45f84b046f59ce030044",
+    "byte_size": 52124,
+    "change": "One Chapter 9 relation paragraph plus version metadata; actual prior output included unchanged; remains candidate."
+  },
+  "source_mechanism_relationship": {
+    "source": "M1",
+    "unchanged_historical_counterpart": "S2",
+    "locators": [
+      "第15章",
+      "附录二第2、4、5、6节",
+      "附录三第5节"
+    ],
+    "ci_locator": "8.2",
+    "note": "Inherited mechanisms are not claimed as CI-001 inventions; 72-hour process is scenario-specific; asymmetric rollback protects essential support."
+  },
+  "review_reports": [
+    {
+      "reported_by": "user in current conversation",
+      "scope": "independent comparison of previous S1/S2/S3 bytes and citations",
+      "status": "reported_pass",
+      "identity": "not supplied; no institutional qualification inferred"
+    }
+  ],
+  "notes": [
+    "S4 and the identically named project-folder copy have identical bytes.",
+    "S5 adds four TOC explanation paragraphs overlapping existing Chapter 3; no substantive deletion from the chosen S4 baseline.",
+    "Historical inputs remain byte-identical and are not relabelled as the new mother."
+  ]
+}

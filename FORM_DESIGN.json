@@ -1,0 +1,25 @@
+{
+  "preset": "compact_reference_guide",
+  "header": "memo_masthead",
+  "override": "one_page_fillable_form",
+  "page_mm": [
+    210,
+    297
+  ],
+  "margins_mm": 13,
+  "font": "Noto Sans SC",
+  "body_pt": 9,
+  "line_spacing_pt": 11.2,
+  "table_columns_dxa": [
+    1400,
+    4650,
+    4380
+  ],
+  "cell_margins_dxa": {
+    "top": 45,
+    "bottom": 45,
+    "start": 75,
+    "end": 75
+  },
+  "table_indent_dxa": 75
+}

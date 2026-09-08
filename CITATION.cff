@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: Please cite CI-001 using the version DOI. The record becomes publicly resolvable
+  on Zenodo publication.
+title: 'CI-001: Irreversible Closure Criterion'
+version: '1.4'
+authors:
+- family-names: Fu
+  given-names: Zijun
+license: CC-BY-4.0
+abstract: An independent bilingual audit instrument for correction, exit/refusal and
+  current recovery conditions. Source manuscripts are excluded from the CC BY grant;
+  see SOURCE_RIGHTS.md.
+keywords:
+- irreversible closure
+- AI governance
+- audit
+- correction
+- exit
+- recovery
+preferred-citation:
+  type: report
+  title: 'CI-001: Irreversible Closure Criterion'
+  authors:
+  - family-names: Fu
+    given-names: Zijun
+  version: '1.4'
+  year: 2026
+  notes: Criterion V1.4 with standalone form F1.0; historical source manuscripts retain
+    separate rights.
+  doi: 10.5281/zenodo.22657725
+doi: 10.5281/zenodo.22657725

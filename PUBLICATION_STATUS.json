@@ -1,0 +1,20 @@
+{
+  "criterion_version": "1.4",
+  "form_version": "F1.0",
+  "prepared_on": "2026-09-08",
+  "status": "doi_bound_release_snapshot",
+  "proposed_repository": "Civilization-Leap/ci-001",
+  "observed_owner_type": "personal account",
+  "repository_creation": "not_completed",
+  "public_tag": "not_created",
+  "zenodo_authentication": "verified_signed_in",
+  "doi": "10.5281/zenodo.22657725",
+  "doi_reservation": "reserved_2026-09-08",
+  "doi_resolution": "verify_live_record_after_publication",
+  "external_use_count_verified": 0,
+  "first_issue": "draft_only_maintainer_example",
+  "public_evidence_scope": "S1/S2/S3 historical originals; excludes M1/L1/S4/S5",
+  "next_action": "Upload this snapshot to the reserved Zenodo record and publish; GitHub repository and tag remain a separate step.",
+  "zenodo_draft_url": "https://zenodo.org/uploads/22657725",
+  "snapshot_note": "This file records preparation state immediately before public deposit. Publication state is established by the live Zenodo record, not by this frozen file."
+}

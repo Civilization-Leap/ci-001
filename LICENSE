@@ -1,0 +1,21 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Zijun Fu (子君赋).
+
+Except for the exclusions below, CI-001 original text, forms, documentation,
+metadata and issue templates are licensed under CC BY 4.0.
+The unmodified, authoritative license terms apply:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+You may share and adapt the licensed material, including commercially, with
+appropriate attribution, a license link and a notice of modifications. No
+endorsement is implied. No extra copyright condition is imposed by CONFORMANCE.md.
+
+Excluded: the three historical source manuscripts under provenance/sources/.
+They are made available for source verification without a new CC BY license
+grant here; their existing rights are retained. See SOURCE_RIGHTS.md.
+
+No software implementation is supplied or licensed as software in this release.
+Any future code license must be explicitly selected for its actual scope.
+
+Embedded font software retains its own license; the document grant does not relicense font software.

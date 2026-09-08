@@ -1,0 +1,23 @@
+{
+  "title": "CI-001: Irreversible Closure Criterion",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "creators": [
+    {
+      "name": "Fu, Zijun"
+    }
+  ],
+  "description": "Independent bilingual audit instrument, version 1.4, with a one-page form in each language and a scoped source-verification subset. CI-001 text/forms are CC BY 4.0. Historical source manuscripts are excluded from that license; see SOURCE_RIGHTS.md. Version DOI 10.5281/zenodo.22657725 was reserved in Zenodo on 2026-09-08.",
+  "version": "1.4",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "irreversible closure",
+    "AI governance",
+    "audit",
+    "correction",
+    "exit",
+    "recovery"
+  ],
+  "notes": "Source manuscript rights differ from the tool license. No independent governance approval or certification is claimed.",
+  "doi": "10.5281/zenodo.22657725"
+}

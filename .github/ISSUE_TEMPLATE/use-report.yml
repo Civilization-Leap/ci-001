@@ -1,0 +1,30 @@
+name: "实际使用记录 / Real use report"
+description: "记录一次具体应用，成功、失败或部分完成均可。"
+title: "[Use] "
+body:
+  - type: textarea
+    id: use
+    attributes:
+      label: "系统、版本、主体、能力与窗口 / System, version, party, capacity and window"
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: "C/E/R、§2.4结论、证据与实际改动 / Findings, evidence and actual changes"
+      description: "可附填表；指出尚未完成的事项。"
+    validations:
+      required: true
+  - type: dropdown
+    id: provenance
+    attributes:
+      label: "报告来源 / Report origin"
+      options:
+        - "外部使用者 / External user"
+        - "维护者自用或示范 / Maintainer self-use or example"
+    validations:
+      required: true
+  - type: textarea
+    id: limits
+    attributes:
+      label: "局限、错误与复审 / Limits, errors and review"

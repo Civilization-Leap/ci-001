@@ -1,0 +1,49 @@
+name: "判据在实际系统中不适用 / Criterion not applicable to a real system"
+description: "报告卡住的条款、证据与替代判法 / Report a clause that fails in practice."
+title: "[Applicability] "
+body:
+  - type: markdown
+    attributes:
+      value: "中文或English均可。部分试用也可报告；无需机构身份。不要上传敏感信息。"
+  - type: dropdown
+    id: reporter_relation
+    attributes:
+      label: "与被评估系统的关系 / Your relation to the system"
+      options:
+        - "开发方或运营方自评估 / Developer or operator self-assessment"
+        - "受影响者 / Affected party"
+        - "外部审计或研究 / External audit or research"
+        - "工具维护者示范 / Tool-maintainer example"
+    validations:
+      required: true
+  - type: textarea
+    id: system
+    attributes:
+      label: "系统类型、版本与范围 / System type, version and scope"
+      description: "主体、关键能力、评估时点与窗口；可用匿名代称。"
+    validations:
+      required: true
+  - type: input
+    id: clause
+    attributes:
+      label: "卡在哪一条 / Which clause fails?"
+      placeholder: "CI-001 V1.4 §2.1 E"
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: "实际观察、证据与预期 / Observations, evidence and expected behavior"
+      description: "分别记录实际观察、未知、推断；可附表单或可复核的脱敏记录。"
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: "替代判法 / Proposed alternative"
+      description: "没有替代方案也可提交，请写“尚无”。"
+  - type: textarea
+    id: safeguards
+    attributes:
+      label: "如何保留纠错与处置自约束 / Preserving safeguards"
+      description: "如提出修改，说明对§2.4、§3.3、§4.1、§4.2的影响。"

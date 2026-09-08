@@ -1,0 +1,42 @@
+{
+  "status": "doi_bound_release_snapshot",
+  "checked_on": "2026-09-08",
+  "verifier": "ChatGPT; AI-assisted checks",
+  "scope": "Artifact structure and bytes, not independent governance review or real-system certification",
+  "form_validation": [
+    {
+      "language": "zh",
+      "pages": 1,
+      "pdf_fields": 16,
+      "canonical_and_widget_values_match": true,
+      "unicode_fill_reopen_render_text_test": "pass"
+    },
+    {
+      "language": "en",
+      "pages": 1,
+      "pdf_fields": 16,
+      "canonical_and_widget_values_match": true,
+      "unicode_fill_reopen_render_text_test": "pass"
+    }
+  ],
+  "word_controls": 16,
+  "source_and_original_manifest_bytes": "pass",
+  "public_scope_exclusions": "pass",
+  "relative_markdown_links_checked": 30,
+  "manual_mirrors": [
+    {
+      "language": "zh",
+      "paragraphs_and_tables": 148,
+      "word_content_mirror": "pass"
+    },
+    {
+      "language": "en",
+      "paragraphs_and_tables": 149,
+      "word_content_mirror": "pass"
+    }
+  ],
+  "issue_yaml": "parsed; field IDs unique",
+  "doi": "10.5281/zenodo.22657725",
+  "github_repository": "not_created",
+  "external_use_evidence": "none verified in this work; maintainer draft excluded"
+}
