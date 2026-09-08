@@ -1,0 +1,30 @@
+name: Publish CI-001 v1.4 release
+
+on:
+  push:
+    paths:
+      - .github/workflows/publish-v1.4.yml
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create immutable v1.4 release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TARGET_SHA: 6a5bb869be9b74651286a2bb877a90df6116f455
+        run: |
+          if gh release view v1.4 --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "v1.4 already exists; leaving it unchanged."
+            exit 0
+          fi
+          gh release create v1.4 \
+            --repo "$GITHUB_REPOSITORY" \
+            --target "$TARGET_SHA" \
+            --title "CI-001 V1.4 — Irreversible Closure Criterion" \
+            --notes-file releases/v1.4.md \
+            --latest
