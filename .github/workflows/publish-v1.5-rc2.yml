@@ -1,0 +1,48 @@
+name: Publish CI-001 v1.5-rc2 prerelease
+
+on:
+  push:
+    paths:
+      - .github/workflows/publish-v1.5-rc2.yml
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 66833c9d19cd1e74aa113f46a284b6897bd2c16e
+      - name: Verify and package reviewed files
+        run: |
+          sha256sum -c SHA256SUMS
+          (cd review/v1.5-rc2 && sha256sum -c SHA256SUMS)
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile, ZIP_DEFLATED
+          root = Path("review/v1.5-rc2")
+          with ZipFile("CI-001_V1.5-RC2_Bilingual_Review_Package.zip", "w", ZIP_DEFLATED) as z:
+              for f in sorted(root.rglob("*")):
+                  if f.is_file():
+                      z.write(f, f.relative_to(root))
+          notes = Path("releases/v1.5-rc2.md").read_text()
+          notes = notes.replace("(../", "(https://github.com/Civilization-Leap/ci-001/blob/v1.5-rc2/")
+          Path("/tmp/rc2-release-notes.md").write_text(notes)
+          PY
+      - name: Create review prerelease
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TARGET_SHA: 66833c9d19cd1e74aa113f46a284b6897bd2c16e
+        run: |
+          if gh release view v1.5-rc2 --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "v1.5-rc2 already exists; leaving it unchanged."
+            exit 0
+          fi
+          gh release create v1.5-rc2 CI-001_V1.5-RC2_Bilingual_Review_Package.zip \
+            --repo "$GITHUB_REPOSITORY" \
+            --target "$TARGET_SHA" \
+            --title "CI-001 V1.5-RC2 — Public review candidate" \
+            --notes-file /tmp/rc2-release-notes.md \
+            --prerelease --latest=false
