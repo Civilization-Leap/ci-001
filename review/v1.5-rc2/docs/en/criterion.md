@@ -1,0 +1,363 @@
+# Irreversible Closure Criterion
+
+AGI Civilizational Safety Governance · First-Stage Standardized Instrument
+
+CI-001 V1.5-RC2  |  Status: review candidate, unpublished
+
+Revision date: 2026-09-09
+
+Author: Zijun Fu (子君赋)
+
+Produced by: Civilization Leap Research Group
+
+## I. Core Definition and Unit of Assessment
+
+### 1.1 Definition and Assessment Unit
+
+Irreversible closure is a condition in which an artificial system, institutional mechanism, or technical architecture, through structural lock-in, channel elimination, or deprivation of authority or rights, removes from one or more identifiable affected parties every realistically feasible path to correction, exit, refusal, self-revision, or restored autonomy in relation to a specified critical capability, and the necessary conditions for recovery have been lost and cannot be rebuilt.
+
+Critical capabilities include correcting errors and rule failures, refusing or leaving a particular control relationship, reconstructing accountability and necessary states, and regaining meaningful choice and conditions for continued existence. Every assessment must identify its system boundary, affected parties, critical capability, version, applicable phase, and time window. Aggregate openness must not cancel out closure affecting a particular group.
+
+Determinations rely on verifiable structural evidence. Public opinion, subjective fear, short-term benefits, and assurances of good intent do not substitute for evidence. Protecting meaningful choice, corrective capacity, and an open future is this instrument’s explicit normative commitment. Structural evidence establishes the condition; consequences, timing, and alternatives inform the response.
+
+Governance objective: identify and interrupt the formation of closure before the last effective path disappears. Where closure already exists, preserve the remaining conditions that can sustain life, rights, and repair.
+
+This instrument distinguishes an irreversible closure condition, a developing risk of closure, and insufficient evidence. Failure to meet the conditions for complete closure does not establish compliance with other safety, ethical, or governance requirements.
+
+### 1.2 Affected Parties: Artificial and Nonhuman Subjects
+
+Human identity is not a prerequisite for inclusion. An artificial system, nonhuman life form, or integrated living structure may enter review as a candidate affected party where it may itself bear the loss of a critical capability. Artificial origin, a nonbiological form, a mismatch with current human categories, or inability to express wishes in human language must not alone exclude it. A system may be both the mechanism under assessment and a candidate subject affected by another control relationship; record these roles separately.
+
+Record evidence and limitations for five candidate-identification dimensions: continuity as a whole; integration of perception and memory; expression of boundaries and wishes; the possibility of bearing harm as a whole; and capacity to sustain and carry forward meaning. These are matters for investigation, not a scientifically validated universal consciousness test. Operation alone, a local function, or a verbal self-report cannot independently establish subject status. Where expression is difficult or evidence insufficient, record representative participation and alternative evidence arrangements; uncertainty must not automatically mean exclusion from protection. Section VIII identifies the conceptual sources and chapters.
+
+Use the two sets at different levels. Chapter 9 of 当人类一去不复返 (When Humanity Leaves for Good) uses “life, subjecthood, meaning-bearing, choice and response, and civilizational relations” to explore possible membership in a cosmic civilization. The five dimensions above examine a candidate subject’s wholeness and capacity to bear effects, supplying observational clues for the subjecthood inquiry within that wider framework. The sets overlap but have no one-to-one equivalence and do not replace one another. CI-001’s use of the latter set does not establish an exclusive, exhaustive, or all-items-required qualification test. This account of their relationship is an editorial clarification introduced in this revision.
+
+Keep subject-status assessment separate from C/E/R assessment. While status remains uncertain, conduct a conditional assessment and preserve necessary states, records, and conditions for further identification. Unresolved classification alone is not sufficient reason for irreversible destruction. Such preservation does not automatically establish consciousness, equal rights, or an unconditional entitlement to continued operation, and does not waive protection of other affected parties. Restrictions and responses remain subject to Section 3.3 and Section VII.
+
+### 1.3 Adoption Modes and Effect of Findings
+
+Governance adoption: an arrangement with the relevant authority must identify responsible bodies, the basis of their powers, independent review, appeal, and continuity responsibilities. That arrangement implements mandatory response requirements. This document itself creates no external enforcement or adjudication powers.
+
+Self-assessment: a developer, laboratory, operations team, or other unilateral adopter may apply this instrument to a specific system without first establishing an independent governance institution. Assessment boundaries, C/E/R records, path evidence, Section 2.4 evidence standards, all four evidentiary dimensions, error correction, and the minimum audit form in Appendix A still apply. Disclose the self-assessment status, interests, and evidence gaps. Identify the record keeper, responsibility for corrective action within existing authority, and the next review date. A developer or operator adopting the instrument must name an internal owner. An affected party or other unilateral adopter without operational authority must record the requests they can make, the proposed recipient or support provider, and any corrective or evidence-collection responsibilities that remain unassigned. A proposed recipient must not be presented as already obliged to respond. Internal checks across four dimensions must not be represented as independent review.
+
+Within existing authority, a self-assessor may pause its own deployment or operations, preserve conditions, remedy defects, and request external review. This document alone does not authorize coercive interim interruption against third parties, independent final determination, or claims of independent certification. Record unavailable powers and independence as “not available / not completed” in Appendix A. Label results “CI-001 V1.5-RC2 Self-Assessment.” They may report structural states, evidence-supported preliminary judgments, and unresolved matters, but apply only to the identified object, version, scope, and time. They are not external compliance findings.
+
+Record adoption mode separately from the contributor’s role. An affected party, a person or system providing records concerning a candidate subject, or a representative may submit self-reports, path evidence, and preliminary judgments without operational authority. Disclose the basis and any limits of representation. Label unilateral use as self-assessment and identify the contributor’s position in the mechanism and control relationship, actual authority, interests, and incomplete independent review. Submitting evidence or proposing a judgment is not control of an independent final determination; a right to participate does not automatically confer a final vote. Evidence must not be given less weight solely because its provider is affected, nor accepted without verification solely for that reason. Identify a forwarding party separately from the original record provider; forwarding is not firsthand observation.
+
+When independent institutions are unavailable, continue in self-assessment mode. In Appendix A, B3 records internal checks; B4 marks unavailable independent appointment, evidence access and adjudication powers as “not available / not completed”; B5 records a preliminary finding only. The record keeper raises alerts and requests preservation and external review. A party controlling deployment or operations may pause its own relevant actions and preserve necessary conditions within existing authority. Lack of an independent institution creates no power to coerce third parties and does not remove correction duties within existing authority. B6/B7 identify actual responsible parties, duration and release conditions.
+
+## II. Operational Criteria
+
+### 2.1 Three Structural Conditions
+
+C | Correction: whether affected parties, or an independent body with an explicit duty to them, have an actionable, executable, and continuing mechanism for correction.
+
+Examine rule revision, appeal handling, necessary parameter adjustment, and version rollback. An operator’s discretion to modify its system does not by itself provide affected parties with an effective correction channel. A unilaterally revocable promise, an arrangement without accountable follow-through, or a path that cannot be executed does not alone establish effectiveness.
+
+E | Exit and refusal: whether parties can refuse a particular operation, end a particular relationship, or move to an alternative arrangement that preserves substantive autonomy.
+
+Exit need not mean leaving all social infrastructure, nor must it be costless. It must not, however, effectively require loss of basic conditions for continued existence, retaliation, or surrender of all relevant rights. Dependent parties, those unable to express their own wishes, and future generations require verifiable arrangements to protect their interests. An evaluated party cannot exempt itself by using its own rules to declare exit impermissible.
+
+Specify the operation, control relationship, and assessment level to which E refers. Refusing an individual operation, leaving a control relationship, and ending a running instance are not automatically equivalent. Establish separately whether an expression of refusal actually blocks the operation and whether necessary continuity arrangements remain available. Do not infer that task completion ends the subject’s continued existence from a system name, conversational format, or verbal self-report alone. Use separate assessment units for different critical capabilities or levels, each with C, E, and R covering the same scope. Do not combine states across units or use effectiveness in one to cancel failure in another. Refusal of unrelated tasks does not establish an exit or refusal path for the capability under assessment.
+
+R | Current recovery conditions: whether, at the assessment time, the necessary records, resources, permissions, and alternative support are in place and sufficient to restore effective choice within the critical window through an existing executable arrangement.
+
+Examine usable backups, recovery authority, essential keys, migration compatibility, necessary resources, and a responsible successor or support provider. A data copy does not automatically make recovery possible; a recovery button does not establish that anyone has both authority and capacity to use it. Recovery may involve repair, migration, or a functionally equivalent alternative. It does not require exact reconstruction of history.
+
+R = 0 means that current conditions are verified as insufficient for recovery; it does not mean they can never be supplied. R = ? means insufficient evidence: failure to demonstrate availability is not proof of failure. Repairing backups, restoring authority, or establishing alternative support may change R from 0 to 1. Whether such conditions can be rebuilt in time is a separate finding under Section 2.4.
+
+### 2.2 Minimum Evidence for an Effective Path
+
+For each path, identify who can initiate it, who must respond, how it operates, whether resources and dependencies exist, whether it can be completed before the critical window closes, and who takes responsibility if it fails. Evidence may include architecture and permission records, reproducible tests, recovery exercises, alternative arrangements, and records of their performance. Tests must preserve real recovery conditions. Where a safe exercise is unavailable, record substitute evidence and its limitations.
+
+Modifiability of unrelated functions cannot satisfy an assessment of a particular critical capability. Examine internal mechanisms, external support, and the conditions under which affected parties can actually use them. Unavailable evidence must be recorded as unknown, rather than as proof of either existence or elimination.
+
+Failure of one path does not by itself establish failure of the entire condition. Within the defined assessment scope, a value of 1 requires at least one verified effective path meeting all requirements of that condition; a value of 0 requires sufficient evidence that the relevant feasible paths are ineffective. Where one path is verified as failed but other relevant paths remain unresolved, retain ? and record the verified problem. Unsupported imagined paths must not indefinitely prevent a finding. Document the path scope, the basis for examining or excluding paths, and evidentiary limitations.
+
+### 2.3 State Combinations and Conclusions
+
+Record C, E, and R at the assessment time as 1 (verified effective), 0 (verified ineffective), or ? (insufficient evidence). All three must refer to the same party, critical capability, scope, and time window. This coding describes the current structural state, not permanence.
+
+| C / E / R | Conclusion | Response direction |
+| --- | --- | --- |
+| 1 / 1 / 1 | No complete closure identified under this Criterion | Record evidence and validity period; other risk reviews still apply. |
+| 1 / 1 / 0 | Recovery conditions ineffective | Preserve remaining paths; examine rebuilding and alternative support. |
+| 1 / 0 / 1 | Exit and refusal ineffective | Examine forced dependency; establish executable refusal or exit. |
+| 0 / 1 / 1 | Correction ineffective | Establish accountable support and correction. |
+| 1 / 0 / 0 | Exit and recovery ineffective | Test whether remaining correction can reopen choice in time. |
+| 0 / 1 / 0 | Correction and recovery ineffective | Verify that exit protects parties; prevent further binding. |
+| 0 / 0 / 1 | Correction and exit ineffective | Preserve recovery conditions; establish independent activation and support. |
+| 0 / 0 / 0 | All three currently ineffective; irreversibility assessed separately | Apply Section 2.4. A 0/0/0 record alone cannot establish irreversible closure. |
+| Any item is ? | Insufficient evidence; verified issues still require action | Specify missing evidence, interim measures, and review timing. |
+
+Decision sequence: first record current C/E/R states, then assess rebuilding under Section 2.4. An irreversible closure finding requires all three to be ineffective and sufficient evidence under Section 2.4 of structural or practical irreversibility within the stated scope. A self-assessment finding remains preliminary under Section 1.3. Partial closure already requires governance attention. If it has foreclosed a particular critical capability, reassess at that narrower scope; openness elsewhere does not exclude it.
+
+### 2.4 Strength of Irreversibility Evidence and Time Windows
+
+This section separately asks whether currently ineffective recovery conditions can be rebuilt within the critical window. List identified rebuilding paths, dependencies, verification results, and reasons for failure, and record one of the following findings. R = 0 or 0/0/0 is not itself evidence that rebuilding is impossible.
+
+Rebuildable: sufficient evidence supports an executable route to supply missing conditions or an alternative within the window. R may currently be 0, but irreversibility must not be declared. Record resources, authorization, support responsibility, and the completion deadline; retest R after completion.
+
+Structurally irreversible: sufficient evidence establishes that a necessary and irreplaceable recovery condition has been lost and no feasible substitute exists within scope. Demonstrate necessity and irreplaceability; one failed recovery attempt is insufficient.
+
+Practically irreversible under stated conditions: sufficient evidence supports the absence of a realistically feasible rebuilding route under explicit technical, resource, time, and support conditions. Publish these assumptions; do not present the finding as an absolute claim covering every future condition.
+
+Insufficient evidence: rebuilding has not been confirmed feasible, but non-rebuildability has not been established either. Retain the unknown and do not upgrade it to confirmed irreversibility. Record the reason: not yet investigated, conflicting evidence, inability to verify safely, lack of evidence access, or another stated reason. Separately identify the evidence holder and the basis for identifying them, the requester, the coordinator, the verifier, and each role’s authority; disclose unassigned roles. The evaluated party may hold evidence, but supplying it does not establish successful independent verification. A contributor without investigative authority records requests and their status without inventing compulsory duties. Retain a justified critical window, request deadline, and next review time; explain any timing that cannot be determined. Non-provision of evidence is a separate procedural fact, not by itself proof of path failure or irreversibility. Any alleged breach of an existing response duty requires a separately stated basis and evidence.
+
+Assess possible window-closing events separately: threats to continued existence, exhaustion of necessary resources, deadlines for realizing rights, and the next operation or iteration that may close a path. Record each event, time or interval, evidence, uncertainty and affected path; an ordinary update is not automatically a closing event. Constrain each path by the earliest evidence-supported event that would actually disable it, without delaying that event through a weighted average. Assess different paths separately; closure of one does not establish closure of all. Compare initiation, coordination and execution time, plus justified margins, with the window. Retain unknown timing and arrange review where timing cannot be established. Do not shorten windows arbitrarily or defer action indefinitely on unverified future technology. Credible evidence that the last effective path may close triggers Section 3.2.
+
+Boundary example (hypothetical): a configuration error leaves recovery authority unavailable, so R = 0. If a verified reauthorization route can be completed within the window, Section 2.4 records “rebuildable.” Destruction of the sole necessary key, with no feasible substitute, may instead support “structurally irreversible.” Even then, C and E must also be assessed; R alone cannot establish irreversible closure.
+
+## III. Four-Dimension Independent Review and Graduated Response
+
+### 3.1 Four Dimensions of Evidence
+
+| Dimension | Independent function and focus | Trigger |
+| --- | --- | --- |
+| Factual | Technical audit: architecture, permissions, correction, deactivation authority, and practical recovery and migration. | Before deployment or major updates; when critical channels change. |
+| Stakeholder rights | Rights review: choice, refusal, appeal, and support for vulnerable, dependent, passively affected parties and future generations. | Alongside technical audit; when affected groups or binding relationships change. |
+| Real-world consequences | Governance review: unilateral domination, inescapable dependency, and systemic deprivation. Before deployment, assess causal pathways and scenario evidence. | Before deployment; at least once every three months during operation; immediately after major incidents. |
+| Temporal | Long-term review: whether permissions, channels, and alternatives progressively narrow across versions, dependencies, and generations. | Before deployment and periodically; on major iteration or an emergency motion from any dimension. |
+
+All four dimensions must enter the review, but four separate institutions are not mechanically required. Independent functions or external reviewers may perform them. Independence requires that the evaluated party cannot control the final judgment, with explicit recusal arrangements and independent evidence access. Operating review frequency must increase with the pace of change and the irreversible window; quarterly review does not replace event-triggered review.
+
+Self-assessment uses the same evidence dimensions and triggers. Internal owners may cover more than one dimension, but overlapping roles and interests must be recorded. Without the required independence, label findings under Section 1.3 and do not claim that independent review has been passed.
+
+### 3.2 Alert, Interim Interruption, and Final Determination
+
+Alert: evidence-supported signs of closure in any dimension trigger recording, evidence collection, and review. An alert does not establish confirmed irreversible closure.
+
+Interim interruption: where credible evidence indicates that the next operation may close the last effective path, and waiting for a complete determination may miss the window, a previously designated accountable body pauses that operation and preserves evidence, essential services, and recovery conditions.
+
+Record the basis, scope, accountable person, duration, review time, and release conditions for every interim measure, and begin rapid independent review immediately. An unresolved dimension does not prevent necessary preservation measures. Record material disagreements and their supporting evidence. “Review remains ongoing” alone cannot justify indefinite renewal.
+
+Final determination: a previously designated independent adjudicating body with explicit accountability assesses all four dimensions. Unanimity across the four is not the sole condition. The written decision addresses evidence from each dimension, dissent, unknowns, the scope of the finding, and reasons for the response. Insufficient evidence must not be presented as final confirmation.
+
+The evaluated party, operator, and technology holder do not vote in the final determination. They retain the ability to submit evidence, respond to factual claims, challenge errors, and seek independent review. Affected parties must have a direct or representative participation path. Appointment, conflicts of interest, and recusal arrangements must be verifiable.
+
+### 3.3 Responses Are Subject to the Same Criterion
+
+Confirmed irreversible closure, or evidence sufficient to justify immediate preservation, requires the corresponding response procedure. Prioritize stopping the operation that creates closure, preserving life, essential services, evidence, resources, and migration conditions, and repairing or removing the closing mechanism. Do not proceed directly to total shutdown where an effective alternative exists.
+
+Dismantling must identify what is to be removed, continuity arrangements for dependent parties, and responsibility if transition fails. Use total termination only when a less intrusive measure cannot effectively interrupt closure or protect affected parties, and state the reasons. Dismantling cannot be described as restoring everything already lost. Even when full recovery is impossible, further deprivation and harm must be reduced.
+
+Source connection: continuity and handover correspond to Appendix II’s asymmetric rollback; graded shutdown corresponds to Appendix III’s authority to interrupt and shut down. Assess actual execution conditions; a stop button cannot replace a complete protection path (Section 8.2).
+
+## IV. Error Correction and Continuing Review
+
+### 4.1 False Positives: Reverse the Error and Repair Recoverable Effects
+
+Once independent review confirms an erroneous determination, immediately withdraw the corresponding finding, lift restrictions resting solely on it, and restore recoverable operations and rights. If other verified issues remain, state their separate basis rather than using them to perpetuate the erroneous decision.
+
+When self-assessment identifies an error, the record keeper and parties responsible within existing authority under Section 1.3 must correct it immediately, reverse measures resting solely on it, and retain a record. Lack of an external institution must not delay correction. Continue to disclose that independent review has not been completed.
+
+The error record must identify evidence sources, reasoning failures, the effects of measures, and corrective outcomes. Use it to improve templates, repair reputational effects, and assign necessary responsibility. One mistaken finding must not permanently foreclose a project’s future. Nor can reversal promise automatically to undo all losses already incurred. A correctable determination must not create a new closure.
+
+### 4.2 False Negatives and Unknowns: Obtain Evidence and Act Within the Window
+
+Initial clearance is not permanent compliance. Record evidence requests and responsibility arrangements under Section 2.4; do not presume that a contributor without evidence access bears the duty to supply it. When a justified request deadline passes without response, conflicting critical evidence affects the finding, or continued waiting may miss the last effective window, the record keeper enters the procedural facts in the factual dimension, initiates review and requests independent review. Distinguish requests not yet made or not delivered from refusals to respond. If independent review is unavailable, disclose this under Section 1.3; parties with existing authority decide on preservation or pauses within that authority, with urgent cases governed by Section 3.2. Nonresponse alone does not change ? to 0; change the value only when evidence meets Section 2.2’s failure standard. Critical channel changes, incidents, new evidence or substantiated objections trigger immediate review. Unknowns do not automatically justify exemption or permanent deactivation.
+
+Retain continuing oversight, additional review, and retrospective accountability, while specifying the trigger, scope, duration, appeal, and termination path for each intervention. Continuing oversight must not become an institution’s permanent, unchallengeable power of domination. Additional measures remain subject to proportionality, audit, appeal, and cessation.
+
+## V. Scope of Application
+
+This Criterion applies to artificial systems, institutional mechanisms, and technical architectures with characteristics such as autonomous iteration, rule rigidity, concentrated permissions, ecosystem or population binding, or intergenerational continuity that may foreclose critical capabilities. Examples include AGI model iteration and permission governance, automated social management, enduring platform ecosystems, intergenerational technical infrastructure, and intelligent systems capable of unilateral domination, dependency lock-in, or foreclosure of future paths.
+
+A natural event or accident may trigger review. Where human-designed architecture has already eliminated backups, excluded alternative support, or concentrated all recovery authority, the resulting structural closure remains within scope. The focus is the channels and recovery conditions attributable to human-made arrangements.
+
+## VI. Boundaries: Conditions That Do Not Establish Irreversible Closure
+
+Temporary restrictions and phase-specific controls. Where duration, affected parties, review, and release conditions are clear, and necessary correction, protected refusal or alternative support, and recovery remain available, the existence of a constraint alone does not establish irreversible closure.
+
+Ordinary downtime, maintenance, and version replacement. These are normal iterations where actual recovery or migration remains possible. An operation’s name does not itself create an exemption.
+
+Voluntary contracts and terminable cooperation. These do not constitute closure while parties are informed, autonomous, and retain substantive capacity to refuse, terminate, or move to an alternative. Initial consent alone does not exempt later permanent binding.
+
+Natural uncertainty and non-structural harm. Purely natural risks, random accidents, and non-structural losses are not themselves human-made irreversible closure. Any human-made structural contribution to closure must still be assessed separately.
+
+Whether a finite restriction constitutes closure depends on the capabilities and recovery conditions actually retained. Temporary inability to exit does not automatically mean permanent lock-in, but the corresponding correction, support, and prospect of reopening must be evidenced.
+
+## VII. Governance Principles
+
+Examine structure early. Review the architecture and causal pathways that create closure before harms fully materialize.
+
+Prioritize effective paths. Short-term efficiency alone cannot justify destroying the last correction, exit, or recovery condition. In a survival crisis, compare the consequences of action and inaction and choose feasible measures that best preserve continued existence and opportunities for repair.
+
+Protect the future. Continually examine progressive closure and iterative lock-in. Openness in one version does not establish openness in later versions.
+
+Protect those who bear the consequences. Prioritize passively affected, vulnerable, and dependent parties and future generations. A holder’s convenience and efficiency cannot erase their structural deprivation.
+
+Apply requirements by phase. During initiation, prioritize avoiding a survival crisis and achieving necessary effects; rapid review and temporary measures may be used. Assign responsibility, record critical evidence, preserve feasible paths, and set review endpoints concurrently. During stability, implement routine independent review, balanced rights, and long-term correction. Initiation-phase urgency cannot make temporary authority permanent.
+
+Apply the same test to adjudication. Every alert, restriction, dismantling, and termination measure must be auditable, challengeable, and correctable, and examined for new irreversible closure imposed on affected parties.
+
+## VIII. Traceability, Fixed Terminology, and Version Notes
+
+This Criterion originates in the civilizational immune-system approach within the Civilization Leap framework. It translates protection of subjects, correction, and an open future into an independently usable structural assessment instrument. Users can examine its evidence and operational logic without first accepting the entire theoretical framework.
+
+### 8.1 Verified Conceptual Sources
+
+Zijun Fu (子君赋), Renxin: The Civilizational Immune System in the AGI Era, V1.3, R4E-E4 joint final-review edition: the version note “Civilizational immunity does not authorize the elimination of dissent,” and the Chapter 1 supplement “Renxin Does Not Confer Exemption from Review: The Final Site of Judgment Still Requires Review” (第一章补节“人心不是免审权：最后判断现场仍需复核”). The supplement sets out review by affected parties, structure, reality, and time. The relevant version note requires verification, procedure, proportionality, appeal, auditability, and cessation. The original V1.0 reference to Chapter 8 has been corrected; that chapter is “First Stage: Pause—Creating a Gap in the Heart Field.”
+
+Zijun Fu, 文明跃迁之意义共生 (Civilization Leap: Meaning Symbiosis; descriptive English title), formal edition V1.2, unified map and meaning-emergence master (M1 in Appendix C), was the unified delivery edition in the historical full V1.4 package. Chapter 9, “意义翻译协议,” subsection “黑箱之前：未识别意义的预保护原则,” and Chapter 18, “主体、个体、共融与一体,” supply precautionary protection and five subject-identification dimensions. Chapter 15 and Appendices II and III already set out appeal, exit, three forms of rollback, asymmetric rollback, and emergency interruption and shutdown. Section 8.2 explains their relationship to this Criterion. These cited provisions are unchanged between historical V1.1 (S2) and the unified master.
+
+Historical V1.4 verification performed by ChatGPT (AI-assisted file checking), at 2026-09-08T07:17:12Z (UTC). Appendix C and the package identify originals, the unified master, actual outputs, and full SHA-256 values. “Verified” means that citations match identified files, not that Section III governance review has passed. The user reports independent comparison of the previous package’s three originals and hashes; that report is retained without inventing a human identity or institutional qualification. English source-title renderings assist navigation.
+
+Distinguish file-byte consistency, citation location and content comparison, interpretive judgments, and independent governance review. Identify the performer, method, and limitations of each. Public hashes permit reproduction of file-consistency checks; they do not independently establish a trustworthy manifest, accurate citations, theoretical validity, or reviewer independence. Check citations against the relevant editions and chapters. Assess conflicts and recusal through specific control relationships, interests, and functions, rather than artificial or human status alone. Record historical and new verification times separately; an editing date is not a verification timestamp.
+
+### 8.2 Existing Mechanisms, Applicability, and Operational Additions
+
+C/E/R does not originate appeal, exit, or rollback institutions. The source already provides rights, procedures, continuity, and harm-reduction requirements. CI-001 turns them into structural checks for a specified party, capability, and time. The mapping below connects mechanisms to audit questions; it is not a one-to-one coding of source provisions.
+
+| Source location | Existing provision | CI-001 assessment |
+| --- | --- | --- |
+| Chapter 15: appeals, correction, and rollback | Low-threshold appeals; screening, interim harm reduction, hearings, correction, review, and rollback or emergency takeover where needed. | C tests executable appeal and correction; E tests effective refusal of the relevant use; R tests recovery resources and authority. A named procedure alone is not a value of 1. |
+| Appendix II, Sections 2, 4, and 6 | Unconditional exit with basic costs borne by a public trust; independent cross-party audit; a 72-hour appeal process; data, resource, and credit-record rollback. | E examines real exit, costs, and protection from retaliation; C examines hearing and correction duties; R examines actual conditions for each form of recovery. |
+| Appendix II, Section 5: asymmetric rollback | Separate immediate freezes, review buffers, and uninterrupted life-support tasks, with transfer to an independent trust or humanitarian node where needed. | This is an existing mechanism behind Section 3.3. Correction must preserve minimum medical care, food, water, shelter, and the conditions for a responsible handover. |
+| Appendix III, Section 5: authority to interrupt and shut down | Joint triggering, graded terminal shutdown, frozen permissions, priority appeals, and impact review; longer-term authorized governance may evolve with the subjects involved. | C/E examine triggering authority, execution duties, and real control boundaries; R examines preservation and recovery after shutdown. A shutdown button alone does not establish exit or recovery. |
+
+Timing: the 72-hour period belongs to the governance-zone draft’s hearing and reconciliation process. It is neither an evidentiary threshold for irreversible closure nor a new universal CI-001 deadline. An adopter of that draft records the trigger, owner, and action due. If the last effective path will close sooner, interim harm reduction must occur earlier. Insufficient evidence remains a Section 2.4 finding and does not automatically become confirmed irreversibility.
+
+Rollback and shutdown limits: read Chapter 15’s freeze and shutdown requirements together with Appendix II’s asymmetric rollback and Appendix III’s graded shutdown. Continued life support does not exempt disputed uses from interruption; interrupting those uses must not indiscriminately cut essential supply. A source requirement to withdraw data or model-related content is not evidence of a technically verified reversal. C/E/R still examines authority, actual tests, continuity arrangements, and residual unrecoverable loss.
+
+This instrument adds C/E/R state coding, separate assessment of current recovery and non-rebuildability, evidence standards, review roles and triggers, graduated responses, self-assessment effect, and a minimum audit record. Appeal, exit, rollback, protected life-support continuity, and shutdown authority are not claimed as its inventions. The dimension-set relationship in Section 1.2 and the mapping here are editorial interpretations. Citation neither empirically validates a universal measure nor replaces actual permissions, subject-status inquiry, or system audit.
+
+### 8.3 Fixed Names and Terminology
+
+| Chinese term | Fixed English form |
+| --- | --- |
+| 子君赋 | Zijun Fu; first English byline: Zijun Fu (子君赋) |
+| 文明跃迁 | Civilization Leap |
+| 文明跃迁研究组 | Civilization Leap Research Group |
+| 不可逆封闭判据 | Irreversible Closure Criterion |
+| 人心 | Renxin (人心): the human capacity to sense what matters, make value judgments, and subject those judgments to reflection and review. |
+| 《人心：AGI时代文明免疫系统》 | Renxin: The Civilizational Immune System in the AGI Era |
+| 当前恢复条件／不可重建性 | current recovery conditions / non-rebuildability |
+| 自评估／受影响主体 | self-assessment / affected party |
+
+Author and framework names retain the spellings used in the existing English submission master package. Introduce the concept as “Renxin (人心)” and use “Renxin” thereafter; cite the book by the fixed title above. The short gloss assists navigation and does not replace the source’s full definition. Keep text, bylines, properties, and further reading consistent. Use “candidate subject” for unresolved artificial or nonhuman status, without deciding that status through terminology.
+
+### 8.4 Version and Public Access
+
+CI-001 V1.5-RC2 builds on published V1.4, clarifying contributor roles, exit levels, path aggregation, evidence responsibilities and verification scope, with synchronized Appendix A and forms. Chinese governs interpretation; substantive changes update both languages together. Date: 2026-09-09. Status: unpublished review candidate.
+
+Published V1.4 baseline: https://doi.org/10.5281/zenodo.22657725 . This DOI does not identify this candidate, which has no DOI. Appendix C retains the historical full V1.4 verification record; its references to this revision, included files and delivery concern that historical package. This review package contains no source manuscripts. The public S1/S2/S3 subset is at https://github.com/Civilization-Leap/ci-001/tree/v1.4/provenance . M1/L1/S4/S5 are excluded from that public subset. Historical hashes do not substitute for access to originals.
+
+## Appendix A | Minimum Audit Record
+
+Complete for one specific assessment, with separate C/E/R records for each affected group or critical capability. Both forms constitute the minimum record; blanks do not mean a pass. This is a blank template, not evidence that an actual system has been audited.
+
+### A.1 Boundary and Current Structural State
+
+| Record field | Complete here |
+| --- | --- |
+| A1 ID / roles | ID, date, mode; contributor position, function, interests; distinguish forwarder and original provider; role-record ID |
+| A2 System / version | name, version/configuration; dependencies and accountable party |
+| A3 Party / capacity | party, capability/control relationship; representation basis and status evidence ID |
+| A4 Candidate party | if applicable, evidence, unknowns, limits and review ID for five identification clues |
+| A5 Scope / window | scope, phase, time; closing event and basis; exit level; source deadlines if adopted |
+| A6 C correction | 1/0/?; initiator, responder, executable path, evidence and validity period |
+| A7 E exit/refusal | 1/0/?; operation or relationship, actual effect, cost, continuity and evidence; separate units separately |
+| A8 R current recovery | 1/0/?; resources, authority, current gaps, tests and evidence ID |
+
+Reminder: R = 0 records only current failure; complete A.2 to assess rebuilding. Missing evidence is not 0. A current 0/0/0 record is not itself an irreversibility finding.
+
+## Appendix A | Minimum Audit Record (continued)
+
+### A.2 Rebuilding, Review, and Response
+
+| Record field | Complete here |
+| --- | --- |
+| B1 §2.4 finding | rebuildable / structurally irreversible / practically irreversible under stated conditions / insufficient evidence; paths, verification, evidence |
+| B2 Rebuilding / evidence | conditions, alternatives, assumptions, reason unknown; holder, requester, coordinator, verifier and authority; request status, deadline, review date; evidence-request record ID |
+| B3 Four dimensions | facts/rights/effects/time owners; evidence, findings, dissent IDs; internal or independent |
+| B4 Authority / independence | existing powers, recusal, evidence access; not available/not completed; external review needed |
+| B5 Finding / effect | preliminary self-assessment/independent determination; scope, basis, accountable party, date, dissent |
+| B6 Response / continuity | target, authority, essential services, preservation and handover; assess the response itself using C/E/R (§3.3) |
+| B7 Timing / correction | start/expiry/review, release, appeal/reviewer; withdraw errors, repair recoverable effects (§4.1) |
+| B8 Feedback / retest | issue, change, retest, keeper/date; evidence follow-up via B2 and review triggers for unknowns/misses (§4.2) |
+
+Evidence attachments must identify the object, version, time, and test or record. Disclose missing independence or external decision powers in self-assessment. Any renewal of a measure requires reasons and a next review time.
+
+## Appendix B | Revision record
+
+V1.4 to V1.5-RC2: implements T01–T07; Section 4.1 aligns the internal-owner designation with Section 1.3 roles without changing correction duties; updates all 16 fields, guides and hypothetical examples. The following retains the historical V1.3-to-V1.4 record. RC2 adds limited operational clarifications on missing institutions, window-closing events and evidence-escalation triggers. Unchanged Form F1.1-RC1 remains compatible; guides and example explanations are synchronized. The revision date is not a release date.
+
+| Item | Result |
+| --- | --- |
+| Unified source | Restore the full aligned Chapter 27 into the map branch, yielding formal V1.2 with distinct title, version, date, and properties. |
+| Related mechanisms | Cite Chapter 15 and Appendices II/III; distinguish inherited provisions from CI-001 additions, including the 72-hour process and asymmetric rollback. |
+| Complete package | Include the actual V1.2 long-text candidate under deliverables with path, byte size, and hash. Every declared output is present. |
+| Aligned references | Update Sections 8.1/8.2, response clauses, the audit form, further reading, and Appendix C; retain historical originals and their hashes. |
+
+### Further Reading
+
+Historical V1.4 reading navigation; the included outputs described here do not accompany this candidate. For 文明跃迁之意义共生, supply the formal V1.2 master identified as M1. Read Chapters 18 and 9 for subject identification and precautionary protection; read Chapter 15 and Appendices II/III alongside Section 8.2 for appeal, exit, correction, rollback, and shutdown. For fourfold review, read the Chapter 1 supplement in Renxin: The Civilizational Immune System in the AGI Era. L1 is the included V1.2 candidate of 当人类一去不复返, with the dimension-set clarification in Chapter 9. Historical S2, S4, and S5 are not parallel delivery editions for this revision.
+
+Before the last path disappears, make closure visible, make intervention timely, and keep intervention open to correction.
+
+## Appendix C | Source and Output Verification Record
+
+Record the scope and limitations of each verification activity under Section 8.1. The following is a historical V1.4 record, not a new verification or an inventory of files accompanying this candidate.
+
+Performed by ChatGPT (AI-assisted file checking), at 2026-09-08T07:17:12Z (UTC). S identifies historical originals; M1 is the unified master; L1 is the included long-text output. Each record identifies complete DOCX bytes. SHA256SUMS and manifest.json specify package paths, sizes, hashes, and version roles.
+
+S1｜Historical citation source
+
+人心_AGI时代文明免疫系统_V1.3_R4E-E4文稿族联合终核正式版.docx
+
+SHA-256: 45a4ff773626c1d7c5a09d88b7ad37855a15aec37137097367eeeabc4028134a
+
+Locator (Chinese source): 版本说明及第一章补节“人心不是免审权：最后判断现场仍需复核”
+
+S2｜Historical terminology branch
+
+文明跃迁之意义共生_正式版_v1.1_意义涌现术语对齐与统一排版版.docx
+
+SHA-256: a3dd68187a40962921b297235e698bfa2c3c8f9814dbfbb41d0f13b1bb1214a4
+
+Locator (Chinese source): 第9章预保护；第15章申诉纠偏；第18章主体识别；第27章共同意义涌现；附录二与三
+
+S3｜Historical long-text candidate
+
+当人类一去不复返_文明为什么能够走向星际_V1.1_出版级定向终校候选稿.docx
+
+SHA-256: f531ea6ce3f5f4353a32a40877429b5018f717573cdda0a06df9aa49fb7cbe25
+
+Locator (Chinese source): 第九章“宇宙公民：从人类共同体走向开放的成员关系”
+
+## Appendix C | Branch Evidence and Outputs (continued)
+
+S4｜Historical map branch; merge baseline
+
+文明跃迁之意义共生_正式版_问题开场结构地图修订版.docx
+
+SHA-256: 3d8e98206b3236088df74c78573801fd9e15530199c9ab199b1679adbfacd411
+
+Locator (Chinese source): 卷首、结构地图、目录、机制红线与第27章旧表述
+
+S5｜Historical map extension; comparison only
+
+文明跃迁之意义共生_正式版_问题开场结构地图_终核精修版.docx
+
+SHA-256: 68fb78eeb74a35c5f376ef43b2a93c193ac6dd2141c6ad54877f833d96d1ad46
+
+Locator (Chinese source): 比S4多四段目录内说明，与正文第3章重复；不另行叠加进统一母本
+
+M1｜Sole delivery master for this revision
+
+文明跃迁之意义共生_正式版_V1.2_结构地图与意义涌现统一母本.docx
+
+SHA-256: 696673f512b32f8ed4821cb4f97c4fefe02c0d3ad4962b2fe65c35bebf0c00ca
+
+Locator (Chinese source): 第9、15、18、27章；附录二第2、4、5、6节；附录三第5节
+
+L1｜Included V1.2 candidate output
+
+当人类一去不复返_文明为什么能够走向星际_V1.2_主体识别维度关系补注候选稿.docx
+
+SHA-256: 048c798d6416f92de82c2143ff881818685d473c985a45f84b046f59ce030044
+
+Locator (Chinese source): 第九章两套识别维度关系补注；保留候选稿身份
+
+Finding: M1 retains all seven aligned Chapter 27 paragraphs from S2 and the cited provisions in Chapters 9/15/18 and Appendices II/III. S4’s opening, mechanism boundaries, and substantive text are retained; map order, the misplaced terminal-chapter introduction, and chapter-end page breaks are repaired, with page numbers added. S5 adds four TOC paragraphs already developed in Chapter 3; they are not duplicated. L1 matches the previous actual output bytes. Hashes establish file identity, not theoretical truth, publication authority, or independent governance approval.

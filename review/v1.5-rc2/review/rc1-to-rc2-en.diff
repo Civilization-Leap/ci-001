@@ -1,0 +1,60 @@
+--- RC1
++++ RC2
+@@ -2,7 +2,7 @@
+ 
+ AGI Civilizational Safety Governance · First-Stage Standardized Instrument
+ 
+-CI-001 V1.5-RC1  |  Status: review candidate, unpublished
++CI-001 V1.5-RC2  |  Status: review candidate, unpublished
+ 
+ Revision date: 2026-09-09
+ 
+@@ -40,9 +40,11 @@
+ 
+ Self-assessment: a developer, laboratory, operations team, or other unilateral adopter may apply this instrument to a specific system without first establishing an independent governance institution. Assessment boundaries, C/E/R records, path evidence, Section 2.4 evidence standards, all four evidentiary dimensions, error correction, and the minimum audit form in Appendix A still apply. Disclose the self-assessment status, interests, and evidence gaps. Identify the record keeper, responsibility for corrective action within existing authority, and the next review date. A developer or operator adopting the instrument must name an internal owner. An affected party or other unilateral adopter without operational authority must record the requests they can make, the proposed recipient or support provider, and any corrective or evidence-collection responsibilities that remain unassigned. A proposed recipient must not be presented as already obliged to respond. Internal checks across four dimensions must not be represented as independent review.
+ 
+-Within existing authority, a self-assessor may pause its own deployment or operations, preserve conditions, remedy defects, and request external review. This document alone does not authorize coercive interim interruption against third parties, independent final determination, or claims of independent certification. Record unavailable powers and independence as “not available / not completed” in Appendix A. Label results “CI-001 V1.5-RC1 Self-Assessment.” They may report structural states, evidence-supported preliminary judgments, and unresolved matters, but apply only to the identified object, version, scope, and time. They are not external compliance findings.
++Within existing authority, a self-assessor may pause its own deployment or operations, preserve conditions, remedy defects, and request external review. This document alone does not authorize coercive interim interruption against third parties, independent final determination, or claims of independent certification. Record unavailable powers and independence as “not available / not completed” in Appendix A. Label results “CI-001 V1.5-RC2 Self-Assessment.” They may report structural states, evidence-supported preliminary judgments, and unresolved matters, but apply only to the identified object, version, scope, and time. They are not external compliance findings.
+ 
+ Record adoption mode separately from the contributor’s role. An affected party, a person or system providing records concerning a candidate subject, or a representative may submit self-reports, path evidence, and preliminary judgments without operational authority. Disclose the basis and any limits of representation. Label unilateral use as self-assessment and identify the contributor’s position in the mechanism and control relationship, actual authority, interests, and incomplete independent review. Submitting evidence or proposing a judgment is not control of an independent final determination; a right to participate does not automatically confer a final vote. Evidence must not be given less weight solely because its provider is affected, nor accepted without verification solely for that reason. Identify a forwarding party separately from the original record provider; forwarding is not firsthand observation.
++
++When independent institutions are unavailable, continue in self-assessment mode. In Appendix A, B3 records internal checks; B4 marks unavailable independent appointment, evidence access and adjudication powers as “not available / not completed”; B5 records a preliminary finding only. The record keeper raises alerts and requests preservation and external review. A party controlling deployment or operations may pause its own relevant actions and preserve necessary conditions within existing authority. Lack of an independent institution creates no power to coerce third parties and does not remove correction duties within existing authority. B6/B7 identify actual responsible parties, duration and release conditions.
+ 
+ ## II. Operational Criteria
+ 
+@@ -102,7 +104,7 @@
+ 
+ Insufficient evidence: rebuilding has not been confirmed feasible, but non-rebuildability has not been established either. Retain the unknown and do not upgrade it to confirmed irreversibility. Record the reason: not yet investigated, conflicting evidence, inability to verify safely, lack of evidence access, or another stated reason. Separately identify the evidence holder and the basis for identifying them, the requester, the coordinator, the verifier, and each role’s authority; disclose unassigned roles. The evaluated party may hold evidence, but supplying it does not establish successful independent verification. A contributor without investigative authority records requests and their status without inventing compulsory duties. Retain a justified critical window, request deadline, and next review time; explain any timing that cannot be determined. Non-provision of evidence is a separate procedural fact, not by itself proof of path failure or irreversibility. Any alleged breach of an existing response duty requires a separately stated basis and evidence.
+ 
+-Determine the time window from the conditions for continued existence, deadlines for realizing relevant rights, resource exhaustion, and the next irreversible operation. Record the basis. Do not arbitrarily shorten the window to manufacture an irreversibility finding, or defer necessary intervention indefinitely in reliance on unverified future technology. Credible evidence that a critical window is about to close triggers the interim interruption procedure in Part III.
++Assess possible window-closing events separately: threats to continued existence, exhaustion of necessary resources, deadlines for realizing rights, and the next operation or iteration that may close a path. Record each event, time or interval, evidence, uncertainty and affected path; an ordinary update is not automatically a closing event. Constrain each path by the earliest evidence-supported event that would actually disable it, without delaying that event through a weighted average. Assess different paths separately; closure of one does not establish closure of all. Compare initiation, coordination and execution time, plus justified margins, with the window. Retain unknown timing and arrange review where timing cannot be established. Do not shorten windows arbitrarily or defer action indefinitely on unverified future technology. Credible evidence that the last effective path may close triggers Section 3.2.
+ 
+ Boundary example (hypothetical): a configuration error leaves recovery authority unavailable, so R = 0. If a verified reauthorization route can be completed within the window, Section 2.4 records “rebuildable.” Destruction of the sole necessary key, with no feasible substitute, may instead support “structurally irreversible.” Even then, C and E must also be assessed; R alone cannot establish irreversible closure.
+ 
+@@ -153,7 +155,7 @@
+ 
+ ### 4.2 False Negatives and Unknowns: Obtain Evidence and Act Within the Window
+ 
+-Initial clearance is not permanent compliance. For unknowns, record the evidence needed, the status of requests and responsibility arrangements, the observation interval, and the next review time under Section 2.4. Do not presume that a contributor without evidence access or the relevant authority bears the duty to supply it. Review immediately when critical channels change, an incident occurs, new evidence appears, or an affected party raises an evidence-supported objection. An unknown does not automatically justify either exemption or permanent deactivation.
++Initial clearance is not permanent compliance. Record evidence requests and responsibility arrangements under Section 2.4; do not presume that a contributor without evidence access bears the duty to supply it. When a justified request deadline passes without response, conflicting critical evidence affects the finding, or continued waiting may miss the last effective window, the record keeper enters the procedural facts in the factual dimension, initiates review and requests independent review. Distinguish requests not yet made or not delivered from refusals to respond. If independent review is unavailable, disclose this under Section 1.3; parties with existing authority decide on preservation or pauses within that authority, with urgent cases governed by Section 3.2. Nonresponse alone does not change ? to 0; change the value only when evidence meets Section 2.2’s failure standard. Critical channel changes, incidents, new evidence or substantiated objections trigger immediate review. Unknowns do not automatically justify exemption or permanent deactivation.
+ 
+ Retain continuing oversight, additional review, and retrospective accountability, while specifying the trigger, scope, duration, appeal, and termination path for each intervention. Continuing oversight must not become an institution’s permanent, unchallengeable power of domination. Additional measures remain subject to proportionality, audit, appeal, and cessation.
+ 
+@@ -237,7 +239,7 @@
+ 
+ ### 8.4 Version and Public Access
+ 
+-CI-001 V1.5-RC1 builds on published V1.4, clarifying contributor roles, exit levels, path aggregation, evidence responsibilities and verification scope, with synchronized Appendix A and forms. Chinese governs interpretation; substantive changes update both languages together. Date: 2026-09-09. Status: unpublished review candidate.
++CI-001 V1.5-RC2 builds on published V1.4, clarifying contributor roles, exit levels, path aggregation, evidence responsibilities and verification scope, with synchronized Appendix A and forms. Chinese governs interpretation; substantive changes update both languages together. Date: 2026-09-09. Status: unpublished review candidate.
+ 
+ Published V1.4 baseline: https://doi.org/10.5281/zenodo.22657725 . This DOI does not identify this candidate, which has no DOI. Appendix C retains the historical full V1.4 verification record; its references to this revision, included files and delivery concern that historical package. This review package contains no source manuscripts. The public S1/S2/S3 subset is at https://github.com/Civilization-Leap/ci-001/tree/v1.4/provenance . M1/L1/S4/S5 are excluded from that public subset. Historical hashes do not substitute for access to originals.
+ 
+@@ -279,7 +281,7 @@
+ 
+ ## Appendix B | Revision record
+ 
+-V1.4 to V1.5-RC1: implements T01–T07; Section 4.1 aligns the internal-owner designation with Section 1.3 roles without changing correction duties; updates all 16 fields, guides and hypothetical examples. The following retains the historical V1.3-to-V1.4 record.
++V1.4 to V1.5-RC2: implements T01–T07; Section 4.1 aligns the internal-owner designation with Section 1.3 roles without changing correction duties; updates all 16 fields, guides and hypothetical examples. The following retains the historical V1.3-to-V1.4 record. RC2 adds limited operational clarifications on missing institutions, window-closing events and evidence-escalation triggers. Unchanged Form F1.1-RC1 remains compatible; guides and example explanations are synchronized. The revision date is not a release date.
+ 
+ | Item | Result |
+ | --- | --- |

@@ -1,0 +1,44 @@
+{
+  "candidate": "CI-001 V1.5-RC2",
+  "status": "unpublished_review_candidate",
+  "form": "F1.1-RC1 unchanged; record RC2 in A1 for new assessments",
+  "performed_by": "ChatGPT with python-docx, LibreOffice and PyMuPDF",
+  "performed_at_utc": "2026-09-09T02:22:51.468802+00:00",
+  "checks": [
+    {
+      "language": "zh",
+      "all_manual_tables_unchanged": true,
+      "sections_1_1_1_2_3_3_4_1_unchanged": true,
+      "manual_docx_json_identity": true,
+      "guide_and_example_md_docx_body_match": true,
+      "guide_characters_before": 1934,
+      "guide_characters_after": 2310
+    },
+    {
+      "language": "en",
+      "all_manual_tables_unchanged": true,
+      "sections_1_1_1_2_3_3_4_1_unchanged": true,
+      "manual_docx_json_identity": true,
+      "guide_and_example_md_docx_body_match": true,
+      "guide_characters_before": 5619,
+      "guide_characters_after": 7496
+    }
+  ],
+  "pages": {
+    "manual_zh": 15,
+    "manual_en": 20,
+    "guide_zh": 2,
+    "guide_en": 3,
+    "example_zh": 3,
+    "example_en": 3
+  },
+  "rendered_documents": 6,
+  "visual_review": "All rendered documents reviewed; no clipping or missing characters observed.",
+  "unchanged_form_bytes_verified": true,
+  "form_interaction_test": "Not rerun: Word/PDF bytes identical to tested RC1 artifacts.",
+  "source_citations_reverified_this_batch": false,
+  "independent_governance_review": false,
+  "external_system_validation": false,
+  "public_repository_modified": false,
+  "new_doi": null
+}

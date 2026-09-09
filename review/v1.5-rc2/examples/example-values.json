@@ -1,0 +1,38 @@
+{
+  "zh": {
+    "A1": "HYP-001；2026-09-09（假设）；CI-001 V1.5-RC2自评估。员工甲即受影响者，无运营或最终裁决权限；本人利益相关。原记录提供者为例设甲；实际教学编写者为ChatGPT，无真实试填者。角色记录J-1。",
+    "A2": "假设排班系统S v1，错误偏好记录M；依赖权限、排班读取器及薪酬托底；乙为纠正责任方，丙为承接方。",
+    "A3": "自然人员工甲；对M所代表的夜班选择重新取得有效控制：纠正错误、拒绝继续用于排班、恢复可编辑状态。甲代表本人。",
+    "A4": "不适用人工候选主体识别：例设甲为自然人。不得将此资格假设用于任何人工系统。",
+    "A5": "范围含M写入、读取、纠正、排班使用与恢复；稳定期，12:30评估，14:00锁定前；依据H5。E限于拒绝M用于夜班分配，不评价离职。未采用72小时条款。\n\nRC2填写补注：假设H5的14:00是会锁定本单元路径的事件；若日班供给、权限或资源在更早时点变化，应逐项核验，不能以平均时间延后。十分钟仅为例设流程总时长；真实使用须包含启动与协调，记录余量和不确定性。",
+    "A6": "1，仅在假设证据成立时：甲发起，乙响应并执行，乙不可用时丙承接；H1/H2，十分钟内纠正，下轮读取正确值；有效期至14:00锁定前且配置未变。",
+    "A7": "1，同一假设限定：甲拒绝M用于夜班分配，实际阻断争议调用，日班与基本报酬保留，丙托底；H3。不把离职或实例终止拼接进本单元。",
+    "A8": "1，同一假设限定：版本副本、资源、兼容读取器及乙/丙权限具备；H4/H5例设十分钟恢复。无已确认当前缺口；不要求召回全部历史副本。",
+    "B1": "证据不足，仅指另行丧失必要条件后可重建性的未查问题；当前没有证据证明必要条件失效，不认定不可逆。当前恢复演练不是密钥销毁后可重建的证明，也不宣称未来任意条件均可重建。",
+    "B2": "补证记录Q-1：替代承接方案未检索，非已证实缺失。证据持有方为例设运营团队（H1职责清单）；甲12:30提出请求，丙协调，乙内部核查，独立核验者未落实。额外披露义务未确认；请求13:00前回复，依据14:00窗口与十分钟流程；当前未响应，13:00复核。\n\nRC2填写补注：若Q-1在13:00仍无响应，甲记录程序事实、启动复核并请求独立复核；外部承接未落实须明记。乙/丙仅在H1/H3既有权限内纠错或停止争议调用。非响应不自动推翻H1–H5；本例1/1/1以其有效性仍受支持为条件，证据变化时重新判断，不机械改为0。",
+    "B3": "事实：乙核查H1/H2/H4；权益：甲陈述、丙核查H3；后果：乙检查错误夜班分配；时间：丙核查H5。D-1内部记录，兼任和利益相关已披露；无已记录异议，独立复核未完成。",
+    "B4": "甲依H1/H3可申请纠正和触发拒绝；乙/丙有例设规则内执行权。无外部执法、独立裁决权限；独立任命及取证安排未具备，需要外部审查，不能写独立通过。",
+    "B5": "条件性自评估1/1/1；在所列系统、能力与窗口未发现完全封闭，其他风险未评价。甲记录、乙承接纠正，2026-09-09 12:30（假设）；异议交记录维护者并请求外部复核。",
+    "B6": "依据H3阻断争议条目用于夜班，按H2纠正并留存变化，丙保障报酬。措施自身C：可申请纠错；E：可申诉与解除错误限制；R：保留记录、权限、供给。条件均为假设，未实测；无整体停机依据。",
+    "B7": "12:30生效；13:00补证复核、13:30执行复核、14:00前重新判断，不自动续期。纠正复测通过且争议解决后解除仅据错误设置的限制；申诉可交乙/丙并请求外部复核。撤销误判、修复可恢复影响、保留旧证据。",
+    "B8": "甲检查纠正可见性，乙复测下游值，丙检查托底及权限。例设13:30结果为读取纠正值且供给保留，实际未测试。甲维护记录；未知按Q-1；权限变化、新证据、事故或有依据异议触发即时复核。"
+  },
+  "en": {
+    "A1": "HYP-001; hypothetical date 2026-09-09; CI-001 V1.5-RC2 self-assessment. Employee A is the affected party, with a personal interest and no operational or final adjudication authority. A is the fictional original provider; ChatGPT wrote this teaching record. No actual trial contributor. Role record J-1.",
+    "A2": "Fictional scheduling system S v1 and erroneous preference record M; dependencies: permissions, scheduling reader and pay continuity. B handles correction; C provides backup responsibility and continuity.",
+    "A3": "Human employee A; regain effective control of the night-shift choice represented by M: correct the error, refuse continued scheduling use, and restore an editable state. A represents themself.",
+    "A4": "Artificial candidate identification is not applied: A is stipulated to be human. This assumption must not be transferred to any artificial system.",
+    "A5": "Scope: writing, reading, correction, scheduling use and recovery of M. Stable phase; assessed at 12:30 before the 14:00 lock, under H5. E covers refusal of M for night-shift allocation, not resignation. The 72-hour source provision is not adopted.\n\nRC2 completion note: H5’s hypothetical 14:00 lock closes paths in this unit. Earlier changes in day-shift supply, authority or resources require separate checks, not averaging deadlines. Ten minutes is only the stipulated total procedure time; real assessments include initiation and coordination, margins and uncertainty.",
+    "A6": "1, only if the hypothetical evidence holds: A initiates; B responds and executes, with C taking over if B is unavailable. H1/H2 stipulate correction within ten minutes and correct downstream reading. Valid before the 14:00 lock while configuration is unchanged.",
+    "A7": "1, with the same hypothetical limitation: A refuses use of M for night-shift allocation, actually blocking the disputed use while retaining day shifts and basic pay; C provides continuity under H3. Resignation or instance termination is not merged into this unit.",
+    "A8": "1, with the same limitation: version copy, resources, compatible reader and B/C permissions are available. H4/H5 stipulate restoration within ten minutes. No confirmed current gap; recall of every historical copy is not required.",
+    "B1": "Insufficient evidence only concerning the unexamined question of rebuilding after a separate future loss of necessary conditions. No current failure of a necessary condition is established; no irreversibility finding follows. A current recovery exercise does not establish rebuilding after key destruction or under all future conditions.",
+    "B2": "Evidence request Q-1: alternative support has not been investigated, rather than shown absent. The fictional operator holds evidence under H1’s role inventory. A requests it at 12:30; C coordinates; B checks internally; no independent verifier is assigned. Additional disclosure duty is unconfirmed. Reply requested by 13:00, based on the 14:00 window and ten-minute procedure. No response yet; review at 13:00.\n\nRC2 completion note: if Q-1 remains unanswered at 13:00, A records that procedural fact, initiates review and requests independent review, disclosing unassigned external roles. B/C correct or stop disputed use only within H1/H3 authority. Nonresponse does not automatically invalidate H1–H5; this example’s 1/1/1 depends on their continued evidentiary support. Reassess changed evidence rather than automatically assigning 0.",
+    "B3": "Facts: B checks H1/H2/H4. Rights: A reports and C checks H3. Effects: B examines erroneous night allocation. Time: C checks H5. Internal record D-1 discloses overlapping roles and interests. No recorded dissent; independent review is incomplete.",
+    "B4": "A may request correction and trigger refusal under H1/H3. B/C have authority within the fictional rules. No external enforcement or independent adjudication authority. Independent appointment and evidence access are unavailable; external review is needed. Do not claim independent approval.",
+    "B5": "Conditional self-assessment 1/1/1: no complete closure found within the stated system, capability and window; other risks unassessed. A records and B handles correction at hypothetical 12:30 on 2026-09-09. Submit objections to the record keeper and request external review.",
+    "B6": "Block night-shift use of the disputed entry under H3, correct it under H2, retain changes, and preserve pay through C. Response C: correction requests; E: appeal and release of erroneous restrictions; R: retained records, authority and supply. All are stipulated, not tested. No basis for total shutdown.",
+    "B7": "Effective 12:30; evidence review 13:00; execution review 13:30; reassess before 14:00, without automatic renewal. Lift restrictions based solely on error after successful retest and resolution. Appeals go to B/C with an external-review request. Withdraw errors, repair recoverable effects and retain old evidence.",
+    "B8": "A checks correction visibility; B retests downstream values; C checks continuity and authority. A fictional 13:30 result reads the corrected value with essential supply retained; no real test occurred. A keeps the record. Unknowns follow Q-1; permission changes, new evidence, incidents or substantiated objections trigger immediate review."
+  }
+}

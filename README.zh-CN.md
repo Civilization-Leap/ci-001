@@ -1,5 +1,9 @@
 # CI-001 · 不可逆封闭判据
 
+**审阅入口：V1.5-RC2预发布** — [发布页与整包下载](https://github.com/Civilization-Leap/ci-001/releases/tag/v1.5-rc2) · [已填一页样例](review/v1.5-rc2/examples/HYP-001_Filled_ZH.docx) → [完整假设证据](review/v1.5-rc2/examples/HYP-001_ZH.md) → [填写指引](review/v1.5-rc2/forms/Guide_ZH.md) · [空白Word表](review/v1.5-rc2/forms/CI-001_V1.5-RC1_一页可填审计表_中文.docx) · [RC2中文说明书](review/v1.5-rc2/docs/zh/criterion.md)。
+
+**正式版入口：V1.4** — 下方原有链接与DOI仍指向正式版。RC2现公开征求试填反馈，不是V1.5正式发布，未分配DOI。[版本与文件状态说明](releases/v1.5-rc2.md)。
+
 [English](README.md) · 判据 **V1.4** · 表单 **F1.0** · DOI [10.5281/zenodo.22657725](https://doi.org/10.5281/zenodo.22657725)
 
 **在最后一条有效路径消失之前。**
