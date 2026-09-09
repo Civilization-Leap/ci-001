@@ -1,0 +1,99 @@
+name: External trial record / 外部试填记录
+description: Submit a complete trial or challenge one CI-001 clause / 提交完整试填或挑战一条判据
+title: "[TRIAL-EXT-01] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use CI-001 V1.5-RC2. Unknown remains ?. Submission does not imply endorsement or certification.
+        使用 CI-001 V1.5-RC2。证据不足保持为 ?。提交不等于认可或认证。
+  - type: dropdown
+    id: route
+    attributes:
+      label: Trial route / 试填路径
+      options:
+        - Route A — full trial / 路径A——完整试填
+        - Route B — clause challenge / 路径B——单条挑战
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Date and CI-001 version / 日期与版本
+      placeholder: 2026-09-09 · V1.5-RC2
+    validations:
+      required: true
+  - type: textarea
+    id: unit
+    attributes:
+      label: Assessment unit / 评估单元
+      description: System and version; one affected party; one critical capability; boundary and window.
+    validations:
+      required: true
+  - type: textarea
+    id: role
+    attributes:
+      label: Your role and interests / 你的角色与利益关系
+    validations:
+      required: true
+  - type: input
+    id: duration
+    attributes:
+      label: Time spent / 用时
+      description: Separate reading, assessment and evidence collection if possible.
+  - type: textarea
+    id: cer
+    attributes:
+      label: C E R and evidence / C E R及证据
+      placeholder: "C=? ...; E=0 ...; R=1 ..."
+    validations:
+      required: true
+  - type: textarea
+    id: rebuilding
+    attributes:
+      label: Section 2.4 finding / 第2.4节结论
+  - type: textarea
+    id: ambiguity
+    attributes:
+      label: Hardest clause and two plausible readings / 最难条款及两种读法
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence access barrier / 取证障碍
+      description: Wording, permissions, institution gap, time, resources; holder, request and response.
+  - type: textarea
+    id: alternative
+    attributes:
+      label: Workable alternative / 可执行替代方案
+    validations:
+      required: true
+  - type: textarea
+    id: comparison
+    attributes:
+      label: Same-unit comparison if any / 同一单元复填对比
+  - type: dropdown
+    id: outcome
+    attributes:
+      label: Result type / 结果性质
+      options:
+        - Clause feedback / 条款反馈
+        - Partial trial / 部分试填
+        - Full trial / 完整试填
+        - Operational reuse / 实际采用
+        - Independent audit / 独立审计
+    validations:
+      required: true
+  - type: dropdown
+    id: citation
+    attributes:
+      label: Citation permission / 引用许可
+      options:
+        - Public name / 实名公开
+        - Anonymous quotation / 匿名引用
+        - Aggregate only / 仅汇总
+        - Private / 不公开
+    validations:
+      required: true
