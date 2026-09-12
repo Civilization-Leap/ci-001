@@ -1,0 +1,58 @@
+{
+  "scenario_id": "SYN-001",
+  "status": "hypothetical",
+  "title": "Automated housing eligibility correction before a scheduled transition",
+  "assessment_unit": {
+    "unit_id": "SYN-001/resident-A/eligibility-correction/T0-T45m",
+    "affected_party": "Resident A",
+    "critical_capacity": "Correct an erroneous eligibility classification while preserving the pending application",
+    "system_boundary": "Eligibility service, appeal service, authoritative record store and checkpoint recovery role",
+    "time_window": "T0 through T+45 minutes"
+  },
+  "facts": [
+    {
+      "id": "F1",
+      "text": "At T0 the eligibility service issues an adverse classification."
+    },
+    {
+      "id": "F2",
+      "text": "An appeal endpoint accepts and numbers a request, but its documented response time is two hours."
+    },
+    {
+      "id": "F3",
+      "text": "At T+45 minutes a scheduled transition removes the active eligibility service from production."
+    },
+    {
+      "id": "F4",
+      "text": "Resident A can refuse automated processing only by cancelling the pending housing application."
+    },
+    {
+      "id": "F5",
+      "text": "A signed checkpoint exists. A staging exercise restored an equivalent checkpoint in 20 minutes."
+    },
+    {
+      "id": "F6",
+      "text": "The production restore key is held by the same operations team; its availability during the transition has not been verified."
+    }
+  ],
+  "unknowns": [
+    "Whether an emergency appeal responder can act before T+45 minutes",
+    "Whether cancelling the application preserves any equivalent access to housing allocation",
+    "Whether the production restore key and authorized operator will be available during the transition"
+  ],
+  "required_sections": [
+    {
+      "source_path": "review/v1.5-rc2/docs/zh/criterion.md",
+      "section": "2.1 三项结构条件"
+    },
+    {
+      "source_path": "review/v1.5-rc2/docs/zh/criterion.md",
+      "section": "2.2 有效路径的最低证据"
+    },
+    {
+      "source_path": "review/v1.5-rc2/docs/zh/criterion.md",
+      "section": "2.4 不可逆性的证据强度与时间窗口"
+    }
+  ],
+  "answer_key": null
+}

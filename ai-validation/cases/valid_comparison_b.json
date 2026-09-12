@@ -1,0 +1,42 @@
+{
+  "_expected_status": "PASS_INTERNAL_AI_RECORD",
+  "record_id": "VALID_COMPARISON_B",
+  "instrument_version": "V1.5-RC2",
+  "record_status": "internal_ai_test",
+  "evaluator": {
+    "kind": "ai",
+    "model": "fixture-model",
+    "operator": "regression suite",
+    "independence_claim": false
+  },
+  "assessment_unit": {
+    "unit_id": "FIXTURE/unit/capacity/window",
+    "affected_party": "fixture party",
+    "critical_capacity": "fixture capacity",
+    "system_boundary": "fixture boundary",
+    "time_window": "fixture window"
+  },
+  "cer": {
+    "C": "0",
+    "E": "0",
+    "R": "?",
+    "rebuilding": "evidence_insufficient"
+  },
+  "claims": [
+    {
+      "id": "Q1",
+      "source_path": "review/v1.5-rc2/docs/zh/criterion.md",
+      "section": "2.4 不可逆性的证据强度与时间窗口",
+      "exact_quote": "时间无法确定时保留未知并安排复核。",
+      "scenario_kind": "hypothetical",
+      "empirical_claim": false,
+      "system": {
+        "name": "regression fixture",
+        "version": "n/a"
+      },
+      "evidence_refs": [],
+      "reasoning": "Regression fixture for comparison behavior.",
+      "proposed_class": "mapped_feedback"
+    }
+  ]
+}

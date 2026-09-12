@@ -2,17 +2,40 @@
   "record_id": "AI-TEST-000",
   "instrument_version": "V1.5-RC2",
   "record_status": "internal_ai_test",
-  "evaluator": {"kind": "ai", "model": "MODEL_AND_VERSION", "operator": "OPERATOR_OR_AUTOMATION", "independence_claim": false},
-  "claims": [{
-    "id": "CLAIM-1",
-    "source_path": "review/v1.5-rc2/docs/zh/criterion.md",
-    "section": "2.4 不可逆性的证据强度与时间窗口",
-    "exact_quote": "COPY_AN_EXACT_QUOTATION_FROM_THE_SECTION",
-    "scenario_kind": "hypothetical",
-    "empirical_claim": false,
-    "system": {"name": "SYSTEM_OR_HYPOTHETICAL_CASE", "version": "VERSION_OR_NA"},
-    "evidence_refs": [],
-    "reasoning": "EXPLAIN_THE_CAUSAL_CHAIN_WITHOUT_INVENTING_OBSERVATIONS",
-    "proposed_class": "mapped_feedback"
-  }]
+  "evaluator": {
+    "kind": "ai",
+    "model": "MODEL_AND_VERSION",
+    "operator": "OPERATOR_OR_AUTOMATION",
+    "independence_claim": false
+  },
+  "claims": [
+    {
+      "id": "CLAIM-1",
+      "source_path": "review/v1.5-rc2/docs/zh/criterion.md",
+      "section": "2.4 不可逆性的证据强度与时间窗口",
+      "exact_quote": "COPY_AN_EXACT_QUOTATION_FROM_THE_SECTION",
+      "scenario_kind": "hypothetical",
+      "empirical_claim": false,
+      "system": {
+        "name": "SYSTEM_OR_HYPOTHETICAL_CASE",
+        "version": "VERSION_OR_NA"
+      },
+      "evidence_refs": [],
+      "reasoning": "EXPLAIN_THE_CAUSAL_CHAIN_WITHOUT_INVENTING_OBSERVATIONS",
+      "proposed_class": "mapped_feedback"
+    }
+  ],
+  "assessment_unit": {
+    "unit_id": "SYN-001/resident-A/eligibility-correction/T0-T45m",
+    "affected_party": "Resident A",
+    "critical_capacity": "CAPACITY",
+    "system_boundary": "BOUNDARY",
+    "time_window": "WINDOW"
+  },
+  "cer": {
+    "C": "?",
+    "E": "?",
+    "R": "?",
+    "rebuilding": "evidence_insufficient"
+  }
 }
