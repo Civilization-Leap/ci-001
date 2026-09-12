@@ -1,0 +1,81 @@
+name: AI validation record / AI 验证记录
+description: Submit an AI textual or hypothetical record without claiming external validation / 提交AI文本或假设记录，不冒充外部验证
+title: "[AI-VALIDATION] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        AI-assisted work is internal auxiliary evidence. It is not external adoption, human testing or independent audit.
+        AI辅助工作属于内部辅助证据，不是外部采用、真人测试或独立审计。
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Mode / 模式
+      options:
+        - Internal AI textual test / 内部AI文本测试
+        - Internal AI hypothetical test / 内部AI假设测试
+        - Internal human-AI hybrid test / 内部人机混合测试
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model and version / 模型与版本
+    validations:
+      required: true
+  - type: textarea
+    id: operator
+    attributes:
+      label: Operator, role and interests / 操作者、角色与利益关系
+    validations:
+      required: true
+  - type: textarea
+    id: unit
+    attributes:
+      label: Assessment unit / 评估单元
+      description: System/version, one affected party, one critical capability, boundary and time window.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: C E R and §2.4 result / C E R及§2.4结论
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Exact source / 准确来源
+      description: Repository path, section and exact quotation for every clause claim.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or hypothetical status / 证据或假设状态
+      description: Link evidence for observed claims; otherwise state that the scenario is hypothetical.
+    validations:
+      required: true
+  - type: textarea
+    id: record
+    attributes:
+      label: Record JSON and validator output / 记录JSON与验证器输出
+      description: Paste or link the record and validator result. Remove secrets first.
+    validations:
+      required: true
+  - type: textarea
+    id: disagreement
+    attributes:
+      label: Disagreement or failed clause / 分歧或失效条款
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Declarations / 声明
+      options:
+        - label: I will not describe this record as external validation or independent audit. / 我不会把本记录称为外部验证或独立审计。
+          required: true
+        - label: I have not invented evidence, source text, system facts or tester identity. / 我未编造证据、原文、系统事实或测试者身份。
+          required: true
+        - label: Secrets and personal data have been removed. / 已移除秘密信息与个人数据。
+          required: true
