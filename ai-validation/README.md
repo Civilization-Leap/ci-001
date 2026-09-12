@@ -48,3 +48,23 @@ The unedited template deliberately fails because its placeholder quotation is no
 The validator can establish textual attribution and specified evidence-file integrity. It cannot determine whether a hypothetical architecture exists, whether a URL proves a claim, whether an assessor reasoned correctly, or whether a real party retains C/E/R. Those remain explicit unknowns until supported by evidence.
 
 校验器能够确认文本归属及指定证据文件的完整性，不能证明假设架构真实存在、链接足以支持主张、推理必然正确或现实主体确实保有C/E/R；证据不足时继续保留未知。
+
+## Prepare and compare AI runs / 生成任务并比较AI结果
+
+Generate a source-bound task packet with no answer key:
+
+```bash
+python3 ai-validation/prepare_task.py ai-validation/scenarios/SYN-001.json --repo-root . --output /tmp/SYN-001-task.json
+```
+
+Give the same generated packet independently to the AI models being compared. Validate each returned JSON, then compare records that use the same `assessment_unit.unit_id`:
+
+```bash
+python3 ai-validation/compare_records.py record-a.json record-b.json --repo-root .
+```
+
+The comparator reports field-level agreement for C/E/R and rebuilding. Agreement is descriptive, not proof of correctness; disagreement identifies the exact field that needs source-grounded review.
+
+先生成不含答案、绑定权威原文的任务包，分别交给不同AI；逐份通过入口校验后，再比较同一`unit_id`下C/E/R与可重建性。相同只表示结果一致，不证明结果正确；分歧用于定位需要复核的字段。
+
+`build_corpus.py` can also emit a machine-readable index of both canonical Markdown manuals and their SHA-256 values. Generated task packets and model outputs are run artifacts and should not be committed as criterion evidence unless their status and limits are preserved.

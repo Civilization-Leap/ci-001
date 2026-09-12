@@ -13,5 +13,11 @@ for p in sorted(cases.glob('*.json')):
   tmp.unlink(missing_ok=True)
  print(f'{p.name}: {got} (expected {expected})')
  if got!=expected:fail.append(p.name)
+cmp=subprocess.run([sys.executable,str(Path(__file__).with_name('compare_records.py')),str(cases/'valid_comparison_a.json'),str(cases/'valid_comparison_b.json'),'--repo-root',str(root)],capture_output=True,text=True)
+comparison=json.loads(cmp.stdout) if cmp.stdout else {}
+if cmp.returncode or comparison.get('disagreement_fields')!=['C']:
+ fail.append('comparison-control')
+else:
+ print('comparison-control: PASS (C disagreement detected)')
 print('PASS: AI validation regression suite' if not fail else 'FAIL: '+', '.join(fail))
 raise SystemExit(bool(fail))
