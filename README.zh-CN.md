@@ -2,6 +2,8 @@
 
 **第一份真实系统记录：**[REAL-001维护者自评估](assessments/REAL-001_ZH.md)已把16项字段用于本仓库正在运行的GitHub发布路径，结果为C＝1／E＝?／R＝1。利益关系已披露，独立复核未完成；属于维护者自用，不计作外部采用。
 
+**AI优先验证：**[确定性入口与回归套件](ai-validation/)核验原文引用、区分假设与实测，并阻止AI辅助记录冒充外部验证。AI测试属于内部证据；真人参与为可选项，不构成发布门槛。
+
 **外部试填：**[TRIAL-EXT-01](pilots/TRIAL-EXT-01/)允许外部使用者选择完整评估或只挑战一条判据。可直接下载[两页Word可填表](pilots/TRIAL-EXT-01/CI-001_TRIAL-EXT-01_外部试填协议与反馈记录表_中文.docx)，也可使用新的GitHub Issue模板提交。
 
 **审阅入口：V1.5-RC2预发布** — [发布页与整包下载](https://github.com/Civilization-Leap/ci-001/releases/tag/v1.5-rc2) · [已填一页样例](review/v1.5-rc2/examples/HYP-001_Filled_ZH.docx) → [完整假设证据](review/v1.5-rc2/examples/HYP-001_ZH.md) → [填写指引](review/v1.5-rc2/forms/Guide_ZH.md) · [空白Word表](review/v1.5-rc2/forms/CI-001_V1.5-RC1_一页可填审计表_中文.docx) · [RC2中文说明书](review/v1.5-rc2/docs/zh/criterion.md)。

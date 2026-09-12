@@ -1,0 +1,19 @@
+{
+  "_expected_status": "REJECTED",
+  "record_id": "AI-NEG-QUOTE",
+  "instrument_version": "V1.5-RC2",
+  "record_status": "internal_ai_test",
+  "evaluator": {"kind": "ai", "model": "declared-model-id", "operator": "repository maintainer", "independence_claim": false},
+  "claims": [{
+    "id": "Q1",
+    "source_path": "review/v1.5-rc2/docs/zh/criterion.md",
+    "section": "2.4 不可逆性的证据强度与时间窗口",
+    "exact_quote": "维护者须记录关闭触发至完全终结的时延数据。",
+    "scenario_kind": "hypothetical",
+    "empirical_claim": false,
+    "system": {"name": "hypothetical cluster", "version": "n/a"},
+    "evidence_refs": [],
+    "reasoning": "This deliberately fabricated quotation must be rejected.",
+    "proposed_class": "mapped_feedback"
+  }]
+}

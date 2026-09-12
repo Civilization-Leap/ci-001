@@ -2,6 +2,8 @@
 
 **First real-system record:** [REAL-001 maintainer self-assessment](assessments/REAL-001_EN.md) applies the 16 fields to this repository’s live GitHub publication path: C=1 / E=? / R=1. Interests are disclosed; independent review is not completed. It is maintainer use, not external adoption.
 
+**AI-first validation:** [deterministic intake and regression suite](ai-validation/) verifies source quotations, separates hypotheses from observations, and prevents AI-assisted records from being described as external validation. AI testing is internal evidence; human participation is optional and is not a release gate.
+
 **External trial:** [TRIAL-EXT-01](pilots/TRIAL-EXT-01/) lets an outside tester either complete the assessment or challenge one clause. Use the [two-page Word form](pilots/TRIAL-EXT-01/CI-001_TRIAL-EXT-01_Protocol_and_Feedback_EN.docx) or submit through the new GitHub issue template.
 
 **Review track: V1.5-RC2 prerelease** — [release and download](https://github.com/Civilization-Leap/ci-001/releases/tag/v1.5-rc2) · [completed one-page example](review/v1.5-rc2/examples/HYP-001_Filled_EN.docx) → [full worked evidence](review/v1.5-rc2/examples/HYP-001_EN.md) → [guide](review/v1.5-rc2/forms/Guide_EN.md) · [blank Word form](review/v1.5-rc2/forms/CI-001_V1.5-RC1_One-page_Audit_Form_EN.docx) · [RC2 manual](review/v1.5-rc2/docs/en/criterion.md).
