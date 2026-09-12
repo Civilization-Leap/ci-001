@@ -1,0 +1,26 @@
+name: AI validation regression
+
+on:
+  push:
+    paths:
+      - "ai-validation/**"
+      - ".github/workflows/ai-validation.yml"
+      - "review/v1.5-rc2/docs/**/*.md"
+  pull_request:
+    paths:
+      - "ai-validation/**"
+      - ".github/workflows/ai-validation.yml"
+      - "review/v1.5-rc2/docs/**/*.md"
+
+permissions:
+  contents: read
+
+jobs:
+  deterministic-intake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 ai-validation/run_suite.py --repo-root .

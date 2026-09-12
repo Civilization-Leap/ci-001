@@ -1,0 +1,19 @@
+{
+  "_expected_status": "REJECTED",
+  "record_id": "AI-NEG-EVIDENCE",
+  "instrument_version": "V1.5-RC2",
+  "record_status": "internal_ai_test",
+  "evaluator": {"kind": "ai", "model": "declared-model-id", "operator": "repository maintainer", "independence_claim": false},
+  "claims": [{
+    "id": "Q1",
+    "source_path": "review/v1.5-rc2/docs/zh/criterion.md",
+    "section": "2.4 不可逆性的证据强度与时间窗口",
+    "exact_quote": "时间无法确定时保留未知并安排复核。",
+    "scenario_kind": "observed_reproducible",
+    "empirical_claim": true,
+    "system": {"name": "unnamed cluster", "version": ""},
+    "evidence_refs": [],
+    "reasoning": "A claimed observation without evidence or a system version must fail intake.",
+    "proposed_class": "mapped_feedback"
+  }]
+}
