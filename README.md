@@ -35,3 +35,27 @@ Record **1** (verified effective), **0** (verified failed) or **?** (insufficien
 **Evidence:** [public source-verification subset](provenance/README.md), with three historical source originals. It excludes the current publication master and other production drafts; included historical books are publicly disclosed as files, not made unpublished by their verification purpose. Their rights are separately stated. [SHA256SUMS](SHA256SUMS) checks this repository's files; original upstream manifests remain unchanged and have a different scope.
 
 Author: **Zijun Fu (子君赋)**. Repository owner: the existing personal account **Civilization-Leap**; no separate institution or organization account is claimed. [Citation](CITATION.cff) · [release notes](releases/v1.4.md).
+
+### Related research / 相关研究
+
+- **Human-COS Public Core:** https://github.com/Civilization-Leap/human-cos-public-core
+- **Human-COS FFT-1 Public Mock Trial:** https://github.com/Civilization-Leap/human-cos-fft1-trial
+- **AGI goal / purpose research:** https://github.com/Civilization-Leap/Civilization-Leap/tree/main/research/beyond-alignment-and-control
+
+
+---
+
+## Continue exploring / 继续阅读
+
+This repository covers one specific research surface within the wider Civilization Leap research program. It does not by itself validate the wider Civilization Leap theory.
+
+本仓库只研究文明跃迁体系中的一个具体问题。使用、复现、批评、证伪或在许可范围内复用本项目，不要求先接受完整文明跃迁理论。
+
+- **Civilization Leap main portal / 理论体系总门户:** https://github.com/Civilization-Leap/Civilization-Leap
+- **Current version baseline / 当前有效版本:** https://github.com/Civilization-Leap/Civilization-Leap/blob/main/VERSION_BASELINE.md
+- **Research index / 研究索引:** https://github.com/Civilization-Leap/Civilization-Leap/blob/main/RESEARCH_INDEX.md
+- **Public website / 文明跃迁网站:** https://www.civitas.top/
+- **Public library / 公开文库:** https://www.civitas.top/library/
+
+Agreement with the wider framework is not required to test or criticize this project.
+
